@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+
+### Maven ###
+target/
